@@ -49,7 +49,7 @@ const Header = () => {
       <Navbar>
         <StylesProvider injectFirst>
         <NavbarWrapper>
-          <Logo>re<strong>vision</strong></Logo>
+          <Logo>kilian rullkötter</Logo>
           <NavItemWrap>
             <NavLink onClick={() => scrollTo('#why')}>Why</NavLink>
             <NavLink onClick={() => scrollTo('#how')}>How</NavLink>
